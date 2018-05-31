@@ -8,8 +8,9 @@
 执行python demo.py
 
 ### 出现的问题
-- 1.执行python demo.py 出现找不到文件的问题：将路径改为以chinese-ocr根目录的相对路径
-- 2.ctpn的配置，
+* 1.执行python demo.py 出现找不到文件的问题：  
+将路径改为以chinese-ocr根目录的相对路径
+* 2.ctpn的配置  
 参照ctpn中github页面的issue中的win cpu配置问题https://github.com/eragonruan/text-detection-ctpn/issues/73
-2.1 unable-to-find-vcvarsall-bat问题
+* 3.unable-to-find-vcvarsall-bat问题  
 python3.5配置，需要下载相关vs2015的相关文件，见页面https://blogs.msdn.microsoft.com/pythonengineering/2016/04/11/unable-to-find-vcvarsall-bat/#comments
